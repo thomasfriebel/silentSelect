@@ -15,3 +15,5 @@ http://localhost/QvAJAXZfc/opendoc.htm?document=silentselect_demo.qvw&anonymous=
 </code>
 
 will select the values B and C in LB01
+
+See a live demo at http://www.dijit.de/qlikview-extensions/silent-select-extension-document-extension/
